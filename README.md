@@ -5,7 +5,7 @@
 
 
 
- ![Team Updates Startup Video in Dark Blue Green 2D Illustration Style](https://github.com/Chinmayee21d/Chinmayee_Deshmukh/assets/109342097/0f1ba204-659a-411b-a2f1-78914565a8fa)
+ ![Team Updates Startup Video in Dark Blue Green 2D Illustration Style](https://github.com/Chinmayee21d/Chinmayee_Deshmukh/assets/109342097/0f1ba204-659a-411b-a2f1-78914565a8fa)(https://Chinmayee21d.io)
 <br>
 
 <h1 align="left">  <img src="https://github.com/Chinmayee21d/Chinmayee_Deshmukh/assets/109342097/01ef14ad-83ba-408b-aa61-74650cd96a1c" width=50 height=50> About Me: </h1>
