@@ -1,5 +1,5 @@
 
-<h1 align="left" > <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width=60 height=60> Hi There, I'm Chinmayee <img src="https://github.com/Chinmayee21d/Chinmayee_Deshmukh/assets/109342097/4a9e0a6b-a288-43c6-bda5-b55934a2c6bd" width=30 height=30></h1>
+<h1 align="left" > <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width=60 height=60> Hi There, I'm Chinmayee </h
 <br>
 
 <br>
@@ -12,15 +12,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinmayee21d&label=Profile%20views&color=0e75b6&style=flat" alt="chinmayee21d" /> </p>
 
 
-- 🔭 I’m currently working on **myself**
+- 🔭 I’m currently working on **AI/ML**
 
 - 🌱 I’m currently learning **Android, Software Testing**
 
 - 👯 I’m looking to collaborate on **GitHub**
 
-- 👩🏽‍💻 All of my projects are available at **.....**
-
-- ⚡ Fun fact **🚀 I love scripting under the stars! Late-night sessions are my superpower!**
 <br>
 
 
